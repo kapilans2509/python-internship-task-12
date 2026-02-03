@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Brian",
+                "last": "Rivera"
+            },
+            "location": {
+                "street": {
+                    "number": 7967,
+                    "name": "Bridge Road"
+                },
+                "city": "Stirling",
+                "state": "Kent",
+                "country": "United Kingdom",
+                "postcode": "E20 2FN",
+                "coordinates": {
+                    "latitude": "-4.7935",
+                    "longitude": "-6.2160"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "brian.rivera@example.com",
+            "login": {
+                "uuid": "1c7c1d84-fd9a-4201-80e4-3bf8cc44d1c4",
+                "username": "tinyfish304",
+                "password": "5555",
+                "salt": "7YJOlchr",
+                "md5": "4fdd56d9945741d7f84196ecec32e761",
+                "sha1": "b94f1071247ce40429ecb632925088db4ccaf653",
+                "sha256": "3935f111c8dce3ea0a960a72334d921473888bbe2965cee972808b613abd071a"
+            },
+            "dob": {
+                "date": "1986-04-04T23:44:54.370Z",
+                "age": 39
+            },
+            "registered": {
+                "date": "2021-07-21T09:25:11.055Z",
+                "age": 4
+            },
+            "phone": "015242 40794",
+            "cell": "07409 968577",
+            "id": {
+                "name": "NINO",
+                "value": "RC 12 95 79 I"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/51.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+            },
+            "nat": "GB"
+        }
+    ],
+    "info": {
+        "seed": "0f4c9edd0920c4f8",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
